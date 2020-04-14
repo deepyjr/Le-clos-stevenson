@@ -2266,12 +2266,12 @@ address {
   left: -10px; }
 
 /* / End Alerts */
-#portfolio {
-  background: #F6F6F6;
+.portfolio {
+  background: white;
   padding: 60px 0;
   width: 100%; }
 
-#portfolio .mix {
+.portfolio .mix {
   padding: 0;
   display: none; }
 
@@ -2289,7 +2289,7 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
   color: #fff !important;
   background: #6B979C; }
 
-#portfolio-list {
+.portfolio-list {
   margin-top: 15px;
   display: inline-block; }
 
@@ -2424,7 +2424,7 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
   transform: translateY(0px); }
 
 /* Portfolio */
-#portfolio ul.portfolio {
+.portfolio ul.portfolio {
   margin-bottom: 0 !important; }
 
 .hovereffect {
@@ -2532,14 +2532,14 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 figure {
   display: inline-block; }
 
-#portfolio .portfolio.block {
+.portfolio .portfolio.block {
   top: 15px; }
-  #portfolio .portfolio.block h5 {
+  .portfolio .portfolio.block h5 {
     color: #444; }
-#portfolio .project {
+.portfolio .project {
   padding-top: 15px;
   padding-bottom: 15px; }
-#portfolio .project-description {
+.portfolio .project-description {
   font-size: 14px;
   color: #444; }
 

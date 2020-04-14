@@ -36,6 +36,25 @@ body {
   .navModif{
       background-color: #4C767A !important;
   }
+
+  .aboutimg{
+    height: 250px !important;
+    width: 350px !important;
+  }
+  .imgporthote{
+    height: 285px !important;
+    width: 380px !important;
+  }
+  .imgport1{
+    height: 285px !important;
+    width: 380px !important;
+  }
+  #content{
+    padding-bottom: 0% !important;
+  }
+  .section{
+    padding: 0% !important;
+  }
   /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
   
