@@ -26,9 +26,9 @@ body {
     background-position: 15% 75%;
   }
   .third-slide{
-    background-image: url(../img/c3.jpg);
+    background-image: url(../img/A-Chambredelacour.jpg);
     background-size: cover;
-    background-position: 25% 40%;
+    background-position: 45% 60%;
   }
   .titleHeader{
     font-family: 'Indie Flower', cursive;
@@ -55,7 +55,10 @@ body {
   .section{
     padding: 0% !important;
   }
-
+  .containerTexte{
+    margin: auto;
+    width: 70%;
+  }
   .container-info{
     display: flex;
   }
