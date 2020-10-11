@@ -16,14 +16,14 @@ body {
       padding: 10px 10px;
   }
   .first-slide{
-    background-image: url(../img/LeClosStevenson.jpg);
+    background-image: url(../img/B-lejardin.jpg);
     background-size: cover;
-    background-position: 25% 35%;
+    background-position: 35% 35%;
   }
   .second-slide{
-    background-image: url(../img/chambre.jpg);
+    background-image: url(../img/Salleamanger.jpg);
     background-size: cover;
-    background-position: 15% 75%;
+    background-position: 25% 55%;
   }
   .third-slide{
     background-image: url(../img/A-Chambredelacour.jpg);
@@ -35,6 +35,9 @@ body {
   }
   .navModif{
       background-color: #4C767A !important;
+  }
+  .carrousel-text{
+    text-shadow: 1px 1px 20px black; 
   }
 
   .aboutimg{
@@ -61,6 +64,11 @@ body {
   }
   .container-info{
     display: flex;
+  }
+  .content-localisation{
+    display: flex;
+    width: 1200px;
+    justify-content: space-evenly ;
   }
   /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
