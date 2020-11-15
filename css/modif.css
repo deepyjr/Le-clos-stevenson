@@ -5,6 +5,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
+@font-face {
+  font-family: AvenirNext;
+  src: url(../fonts/AvenirNext.ttc);
+}
 
 body {
     padding-top: 3rem;
@@ -31,7 +35,7 @@ body {
     background-position: 45% 60%;
   }
   .titleHeader{
-    font-family: 'Indie Flower', cursive;
+    font-family: AvenirNext;
   }
   .navModif{
       background-color: #4C767A !important;
